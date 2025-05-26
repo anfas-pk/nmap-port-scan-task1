@@ -27,7 +27,7 @@ Devices 192.168.1.2, .3, and .5 had no open ports reported or were filtered.
 
  
  What I Learned
-  How to use nmap -sS for a stealth scan on a subnet
+  How to use nmap  for a stealth scan on a subnet
 
   How to interpret scan results and identify service names
 
